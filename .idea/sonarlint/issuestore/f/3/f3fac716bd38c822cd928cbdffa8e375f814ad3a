@@ -1,0 +1,17 @@
+
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ş­©å8§»îÑÚ/
+
+java:S1149K"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(€š’µûÿÿÿÿ8«»îÑÚ/
+|
+java:S1149q"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÓÍı8¬»îÑÚ/
+|
+java:S1149u"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ƒõı»8­»îÑÚ/
+]
+java:S1854";Remove this useless assignment to local variable "endTime".(²ÿèùıÿÿÿÿ8ã»îÑÚ/
+_
+java:S1854"=Remove this useless assignment to local variable "startTime".(º¥™øÿÿÿÿ8ä»îÑÚ/
+X	java:S125E"<This block of commented-out lines of code should be removed.(©ğÜÇ8å¼îÑÚ/
+]	java:S125^"<This block of commented-out lines of code should be removed.(¿üÌÙşÿÿÿÿ8ë¼îÑÚ/
+9
+java:S1643*"Use a StringBuilder instead.(‚²ß¶8ú¼îÑÚ/

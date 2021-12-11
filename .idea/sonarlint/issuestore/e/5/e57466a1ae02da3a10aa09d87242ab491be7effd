@@ -1,0 +1,10 @@
+
+|
+java:S1149."_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(áóè8¶ËîÑÚ/
+t
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(´…Üãıÿÿÿÿ8ÃËîÑÚ/
+X	java:S125:"<This block of commented-out lines of code should be removed.(‡–†”8ÍËîÑÚ/
+C
+java:S1168C"&Return an empty array instead of null.(¥¹ï8„ÌîÑÚ/
+
+java:S1488?"]Immediately return this expression instead of assigning it to the temporary variable "split".(âÈôºøÿÿÿÿ8‘ÌîÑÚ/
